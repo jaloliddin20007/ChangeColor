@@ -1,0 +1,45 @@
+.blue{
+  background-color: blue;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
+.green{
+  background-color: green;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
+.orange{
+  background-color: orangered;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
+.box{
+  
+  align-items: center;
+  text-align: center;
+}
+p{
+  font-family: system;
+  font-size: 40px;
+  font-weight: 700;
+}
+.oq{
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+  border: none;
+}
+.qora{
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
